@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    color: rgb(243, 34, 34);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 200px;
+}
